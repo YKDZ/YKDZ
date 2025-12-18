@@ -5,11 +5,16 @@ I'm building a **Crowdin-like [translation assistance platform](https://github.c
 
 **Focus / 关注方向：**
 
-- 🌍 Collaborative translation workflows · 协作式翻译工作流
-- 🤖 Programmable & automated translation tasks · 可编程自动翻译任务
-- 🧠 Terminology & translation memory management · 术语与翻译记忆管理
-- 🧬 Deep LLM integration for translation assistance · 深度 LLM 翻译辅助
-- 🔌 Plugin-oriented, extensible architecture · 插件化可扩展架构
+- 🌍 **Collaborative translation workflows**\
+  🌍 协作式翻译工作流
+- 🤖 **Programmable & automated translation tasks**\
+  🤖 可编程自动翻译任务
+- 🧠 **Terminology & translation memory management**\
+  🧠 术语与翻译记忆管理
+- 🧬 **Deep LLM integration for translation assistance**\
+  🧬 深度 LLM 翻译辅助
+- 🔌 **Plugin-oriented, extensible architecture**\
+  🔌 插件化可扩展架构
 
 If you're interested or have suggestions, feel free to reach out via email.  
 如有兴趣或建议，欢迎通过邮箱交流。
