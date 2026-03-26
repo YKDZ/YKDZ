@@ -21,8 +21,6 @@ If you're interested or have suggestions, feel free to reach out via email.
 
 ---
 
-### 📊 Activity & Stats
-
 <p align="left">
   <img src="https://github-readme-stats.encmys.cn/api?username=YKDZ&show_icons=true" />
   <br/>
