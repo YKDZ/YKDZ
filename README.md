@@ -11,8 +11,8 @@ I'm building a **Crowdin-like [translation assistance platform](https://github.c
   🤖 可编程自动翻译任务
 - 🧠 **Terminology & translation memory management**\
   🧠 术语与翻译记忆管理
-- 🧬 **Deep LLM integration for translation assistance**\
-  🧬 深度 LLM 翻译辅助
+- 🧬 **Deep Agent integration for translation assistance**\
+  🧬 深度 Agent 翻译辅助
 - 🔌 **Plugin-oriented, extensible architecture**\
   🔌 插件化可扩展架构
 
