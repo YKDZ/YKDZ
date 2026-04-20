@@ -1,6 +1,7 @@
 ## 👋 Hi there
 
-I'm building a **Crowdin/memoQ-like [translation assistance and management platform](https://github.com/YKDZ/cat)** 我正在开发一个类似 Crowdin/memoQ 的 **[软件翻译辅助与管理平台](https://github.com/YKDZ/cat)**
+I'm building a **Crowdin/memoQ-like [translation assistance and management platform](https://github.com/YKDZ/cat)**\
+我正在开发一个类似 Crowdin/memoQ 的 **[软件翻译辅助与管理平台](https://github.com/YKDZ/cat)**
 
 **Focus / 关注方向：**
 
