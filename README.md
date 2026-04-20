@@ -20,7 +20,7 @@ I'm building a **Crowdin/memoQ-like [translation assistance and management platf
   🔌 插件化的可扩展架构
 - 🔒 **Data security with fully in-house processing**\
   🔒 数据完全内联的安全保障
-- 💖 **Free and Open-Source**
+- 💖 **Free and Open-Source**\
   💖 开源与免费
 
 If you're interested or have suggestions, feel free to reach out via email.  
