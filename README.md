@@ -29,59 +29,42 @@ If you're interested or have suggestions, feel free to reach out via email.
 
 ---
 
-<h3>🌐 Languages & Core</h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/webassembly-%23654FF0.svg?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</div>
-
-<h3>🎨 Frontend & UI</h3>
-<div align="left">
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/unocss-333333.svg?style=for-the-badge&logo=unocss&logoColor=white" alt="UnoCSS" />
-  <img src="https://img.shields.io/badge/shadcn/ui-%23000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn/ui" />
-</div>
-
-<h3>⚙️ Backend & Database</h3>
-<div align="left">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white" alt="tRPC" />
-  <img src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css-%23663399.svg?style=flat&logo=css&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/webassembly-%23654FF0.svg?style=flat&logo=webassembly&logoColor=white" alt="WebAssembly" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/unocss-333333.svg?style=flat&logo=unocss&logoColor=white" alt="UnoCSS" />
+  <img src="https://img.shields.io/badge/shadcn/ui-%23000000?style=flat&logo=shadcnui&logoColor=white" alt="Shadcn/ui" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/tRPC-%232596BE.svg?style=flat&logo=tRPC&logoColor=white" alt="tRPC" />
+  <img src="https://img.shields.io/badge/zod-%233068b7.svg?style=flat&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/apachemaven-C71A36.svg?style=flat&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white" alt="Gradle" />
+  <img src="https://img.shields.io/badge/nx-143055?style=flat&logo=nx&logoColor=white" alt="Nx" />
+  <img src="https://img.shields.io/badge/turborepo-%23EF4444.svg?style=flat&logo=turborepo&logoColor=white" alt="Turborepo" />
+  <img src="https://img.shields.io/badge/oxc-%233451b2.svg?style=flat&logo=oxc&logoColor=white&logoSize=auto" alt="Oxc" />
+  <img src="https://img.shields.io/badge/prettier-%23192a32?style=flat&logo=prettier&logoColor=dc524a" alt="Prettier" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/github_copilot-8957E5?style=flat&logo=github-copilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/ollama-%23000000.svg?style=flat&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/dependabot-025E8C?style=flat&logo=dependabot&logoColor=white" alt="Dependabot" />
   <img src="./vike.svg" alt="Vike" />
-</div>
-
-<h3>🛠 Tools & Infrastructure</h3>
-<div align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle" />
-  <img src="https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white" alt="Nx" />
-  <img src="https://img.shields.io/badge/turborepo-%23EF4444.svg?style=for-the-badge&logo=turborepo&logoColor=white" alt="Turborepo" />
-  <img src="https://img.shields.io/badge/oxc-%233451b2.svg?style=for-the-badge&logo=oxc&logoColor=white&logoSize=auto" alt="Oxc" />
-  <img src="https://img.shields.io/badge/prettier-%23192a32?style=for-the-badge&logo=prettier&logoColor=dc524a" alt="Prettier" />
-</div>
-
-<h3>🤖 Editors & AI</h3>
-<div align="left">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white" alt="Dependabot" />
 </div>
 
 ---
