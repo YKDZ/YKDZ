@@ -36,12 +36,14 @@ If you're interested or have suggestions, feel free to reach out via email.
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/webassembly-%23654FF0.svg?style=flat&logo=webassembly&logoColor=white" alt="WebAssembly" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/unocss-333333.svg?style=flat&logo=unocss&logoColor=white" alt="UnoCSS" />
   <img src="https://img.shields.io/badge/shadcn/ui-%23000000?style=flat&logo=shadcnui&logoColor=white" alt="Shadcn/ui" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="Postgres" />
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
@@ -50,6 +52,7 @@ If you're interested or have suggestions, feel free to reach out via email.
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/apachemaven-C71A36.svg?style=flat&logo=apachemaven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white" alt="Gradle" />
@@ -62,6 +65,7 @@ If you're interested or have suggestions, feel free to reach out via email.
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/github_copilot-8957E5?style=flat&logo=github-copilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white" alt="Codex" />
   <img src="https://img.shields.io/badge/ollama-%23000000.svg?style=flat&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/dependabot-025E8C?style=flat&logo=dependabot&logoColor=white" alt="Dependabot" />
   <img src="./vike.svg" alt="Vike" />
