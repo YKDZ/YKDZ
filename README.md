@@ -30,7 +30,7 @@ If you're interested or have suggestions, feel free to reach out via email.
 ---
 
 <div align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=html,css,javascript,typescript,webassembly,java,kotlin,rust,vuejs,vike,vite,tauri,tailwindcss,unocss,shadcnui,nodejs,nestjs,mysql,postgresql,sqlite,trpc,zod,git,github,linux,ubuntu,android,cloudflare,apachemaven,gradle,nx,turborepo,oxc,prettier,visualstudiocode,intellijidea,chatgpt,claudeai,githubcopilot,codex,ollama,dependabot" alt="Tech Stack" />
+  <img src="https://skills.syvixor.com/api/icons?i=html,css,javascript,typescript,webassembly,java,kotlin,rust,vuejs,vike,vite,tauri,tailwindcss,unocss,shadcnui,nodejs,nestjs,mysql,postgresql,sqlite,trpc,zod,git,github,linux,ubuntu,android,cloudflare,vercel,apachemaven,gradle,nx,turborepo,oxc,prettier,visualstudiocode,intellijidea,chatgpt,claudeai,githubcopilot,codex,ollama,dependabot" alt="Tech Stack" />
 </div>
 
 ---
