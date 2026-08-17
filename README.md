@@ -37,8 +37,8 @@ If you're interested or have suggestions, feel free to reach out via email.
 
 <h3>📊 GitHub Stats</h3>
 <div align="left">
-  <img src="https://github-readme-stats.encmys.cn/api?username=YKDZ&show_icons=true" alt="YKDZ's GitHub Stats" />
-  <img src="https://github-readme-stats.encmys.cn/api/top-langs/?username=YKDZ&layout=compact" alt="YKDZ's Top Languages" />
+  <img src="./profile/stats.svg" alt="YKDZ's GitHub Stats" />
+  <img src="./profile/top-langs.svg" alt="YKDZ's Top Languages" />
 </div>
 
 ---
