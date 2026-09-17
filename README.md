@@ -1,7 +1,7 @@
 ## 👋 Hi there
 
 I'm building a **Crowdin/memoQ-like [translation assistance and management platform](https://github.com/YKDZ/cat)**\
-我正在开发一个类似 Crowdin/memoQ 的 **[软件翻译辅助与管理平台](https://github.com/YKDZ/cat)**
+我正在开发一个功能类似 Crowdin/memoQ 的 **[软件翻译辅助与管理框架](https://github.com/YKDZ/cat)**
 
 **Focus / 关注方向：**
 
@@ -13,8 +13,6 @@ I'm building a **Crowdin/memoQ-like [translation assistance and management platf
   🤖 AI Agent 深度参与并自动化核心与旁支工作流
 - ⚙️ **Seamless tech stack & CI/CD integration**\
   ⚙️ 无缝接入各类软件/游戏技术栈与 CI/CD 流水线
-- 🛤️ **Issue & PR-driven continuous iteration**\
-  🛤️ 基于 Issue 和 PR 驱动的本地化持续迭代机制
 - 🖼️ **Extensive multimodal context sourcing**\
   🖼️ 支持广泛的上下文来源（代码、社交软件、Figma、网页截图等）
 - 🔌 **Plugin-oriented extensible architecture**\
