@@ -18,5 +18,5 @@
 
 <p align="left">
   <strong>ID</strong>: <code>YK_DZ</code><br/>
-  <img src="https://github.com/user-attachments/assets/23f9073c-9c8a-4da2-b344-f6f2a426a63b" width="96" alt="Minecraft Skin" />
+  <img src="https://crafthead.net/helm/YK_DZ/96" alt="Minecraft Skin" />
 </p>
