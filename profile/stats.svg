@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">YKDZ&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 60, Total Commits  (last year) : 5357, Total PRs: 171, Total Issues: 127, Contributed to (last year): 23</desc>
+        <desc id="descId">Total Stars Earned: 60, Total Commits  (last year) : 5425, Total PRs: 171, Total Issues: 127, Contributed to (last year): 23</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 63.768000124836874;
+        stroke-dashoffset: 63.767997573809104;
       }
     }
   
